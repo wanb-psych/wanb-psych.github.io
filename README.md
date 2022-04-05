@@ -1,6 +1,6 @@
-# Welcome to my pages
+# Welcome to my pages <img align="right" width="180" height="180" src="https://github.com/wanb-psych/wanb-psych.github.io/blob/main/src/icons/cng_logo.jpg">
 
-I am Bin Wan, a doctoral researcher at Otto Hahn Group Cognitive Neurogenetics [<img align="right" width="180" height="180" src="https://github.com/wanb-psych/wanb-psych.github.io/blob/main/src/icons/cng_logo.jpg"> (CNG)](https://cng-lab.github.io) lab led by Dr. Sofie Valk.<br/>
+I am Bin Wan, a doctoral researcher at Otto Hahn Group Cognitive Neurogenetics [(CNG)](https://cng-lab.github.io) lab led by Dr. Sofie Valk.<br/>
 
 I have an interdisciplinary background and have followed a unique path in academia so far. My bachelor major is to analyze chemical materials and microbes in the air, water, food, and blood. Master major focused on epidemiology and mental health. At the same time I made a lot of friendships that helped me both personally and professionally during good and more difficult times. This made me realize that the key to enjoyment in science is collaboration, and since then I collaborate intensively with others who have a shared interest in social psychology and health. During employment in Beijing, I focused on optical stimuli and visual impacts/learning.<br/>
 
